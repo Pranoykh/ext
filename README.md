@@ -52,4 +52,9 @@
     
     5. Reputational Risks:
 
-       * Brand Spoofing: Malicious extensions can damage the reputation of legitimate businesses by mimicking their brands and engaging in malicious activities. 
+       * Brand Spoofing: Malicious extensions can damage the reputation of legitimate businesses by mimicking their brands and engaging in malicious activities.
+      
+
+**Various Malicious ad blocker is listed in below link :**
+
+https://github.com/Pranoykh/ext/blob/main/extension.md
